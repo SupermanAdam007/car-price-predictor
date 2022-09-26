@@ -1,0 +1,8 @@
+ipykernel
+requests
+# tensorflow_decision_forests
+# wurlitzer
+# protobuf==4.21.6
+sklearn
+tensorflow-addons
+matplotlib
