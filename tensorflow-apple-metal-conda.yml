@@ -20,6 +20,8 @@ dependencies:
     - flask
     - boto3
     - ipykernel
+    - graphviz
+    - python-graphviz
     - pip:
         - tensorflow-macos
         - tensorflow-metal
@@ -27,3 +29,4 @@ dependencies:
         - gym
         - kaggle
         - tensorflow_addons
+        - xgboost
